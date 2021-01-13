@@ -7,7 +7,7 @@ const NavBar = () => {
    <nav className="container-fluid bg-dark d-flex justify-content-between align-items-center mb-3">
     <div className="mt-1">
      <NavLink to="/">
-      <h3 className="text-light">|Tha Net</h3>
+      <h3 className="text-light">jrnn21</h3>
      </NavLink>
     </div>
     <div>
