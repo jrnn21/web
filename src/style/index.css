@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+* {
+ /* font-family: 'Goldman', cursive; */
+ font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+ background-color: rgb(238, 238, 238) !important;
+}
+
+nav {
+ /* font-family: 'Goldman', cursive; */
+ font-family: 'Ubuntu', sans-serif;
+ color: white;
+}
+
+.NavActive {
+ /* color: #343a40 !important; */
+ /* background: #ffffff; */
+ background-color: #484f55;
+ border-bottom: 4px solid #ffffff !important;
+}
+
+.NavItem {
+ color: white;
+ padding: 14px 20px 10px 20px;
+ border-bottom: 4px solid transparent;
+ display: inline-block;
+ /* margin: 0 3px; */
+}
+.NavItem:hover {
+ color: white !important;
+ background-color: #484f55;
+ text-decoration: none;
+}
+
+/* LogIn */
+.LogIn {
+ max-width: 400px;
+ margin: 0 auto;
+ min-height: 50vh;
+}
