@@ -4,7 +4,7 @@ const Dashboard = () => {
  return (
   <>
    <h3>HOME PAGE</h3>
-   
+   <h1>fuck</h1>
   </>
  );
 };
