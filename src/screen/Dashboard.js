@@ -6,7 +6,7 @@ const Dashboard = () => {
    <h3>HOME PAGE</h3>
    <h1>clone finish</h1>
    <h1>clone again</h1>
-   <h4>gg</h4>
+   <h4>ggggggggg</h4>
   </>
  );
 };
